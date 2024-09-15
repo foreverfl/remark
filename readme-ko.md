@@ -525,7 +525,7 @@ remark 플러그인의 사용도 다른 공격에 노출될 수 있습니다.
 <tr valign="middle">
 <td width="100%" align="center" colspan="8">
   <br>
-  <a href="https://opencollective.com/unified"><strong>여기에 당신을 추가하세요!</strong></a>
+  <a href="https://opencollective.com/unified"><strong>당신도 함께 하시겠습니까?</strong></a>
   <br><br>
 </td>
 </tr>
@@ -601,9 +601,9 @@ remark 플러그인의 사용도 다른 공격에 노출될 수 있습니다.
 
 [rehype-sanitize]: https://github.com/rehypejs/rehype-sanitize
 
-[remark-cli]: packages/remark-cli/
+[remark-cli]: packages/remark-cli/readme-ko.md
 
-[remark-core]: packages/remark/
+[remark-core]: packages/remark/readme-ko.md
 
 [remark-gfm]: https://github.com/remarkjs/remark-gfm
 
@@ -613,7 +613,7 @@ remark 플러그인의 사용도 다른 공격에 노출될 수 있습니다.
 
 [remark-rehype]: https://github.com/remarkjs/remark-rehype
 
-[remark-stringify]: packages/remark-stringify/
+[remark-stringify]: packages/remark-stringify/readme-ko.md
 
 [remark-toc]: https://github.com/remarkjs/remark-toc
 
@@ -623,7 +623,7 @@ remark 플러그인의 사용도 다른 공격에 노출될 수 있습니다.
 
 [xss]: https://en.wikipedia.org/wiki/Cross-site_scripting
 
-[list-of-plugins]: doc/plugins.md#list-of-plugins
+[list-of-plugins]: doc/plugins-ko.md#list-of-plugins
 
 [syntax]: #구문
 
