@@ -611,7 +611,7 @@ remark 플러그인의 사용도 다른 공격에 노출될 수 있습니다.
 
 [remark-parse]: https://github.com/foreverfl/remark/blob/main/packages/remark-parse/readme-ko.md
 
-[remark-rehype]: https://github.com/remarkjs/remark-rehype
+[remark-rehype]: https://github.com/foreverfl/rehype/blob/main/readme-ko.md
 
 [remark-stringify]: packages/remark-stringify/readme-ko.md
 
